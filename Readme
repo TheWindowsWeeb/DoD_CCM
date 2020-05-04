@@ -7,7 +7,7 @@ You can add items for the checklist by editing the PS1 file and you can add GPOs
 
 This is a tool that I made for setting up computers for work environments and for shortcuts in the windows operating system.
 
-The following folders should be present to import GPOs from the script
+The following folders should be present to import GPOs from the script if cloning from git:
 C:/DoD_CCM/Server2008
 C:/DoD_CCM/Server2012
 C:/DoD_CCM/Server2016
@@ -15,3 +15,5 @@ C:/DoD_CCM/Server2019
 C:/DoD_CCM/Win7
 C:/DoD_CCM/Win8
 C:/DoD_CCM/Win10
+
+The DoD_CCM.zip can be extracted in the base C:/ for near perfect compadability.
