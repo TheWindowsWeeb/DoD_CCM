@@ -1,0 +1,5 @@
+LGPO.exe is not included in this package.
+
+LGPO.exe must be in C:/DoD_CCM
+LGPO.exe can be downloaded from this URL:
+https://www.microsoft.com/download/details.aspx?id=55319

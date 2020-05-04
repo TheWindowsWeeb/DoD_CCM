@@ -1,0 +1,17 @@
+Welcome to DoD Project CCM.
+This project has nothing to do with the Department of Defense and is solely just a name.
+
+For the best compatibility, please place the DoD_CCM folder in the base C: drive.
+
+You can add items for the checklist by editing the PS1 file and you can add GPOs into their corresponding folders.
+
+This is a tool that I made for setting up computers for work environments and for shortcuts in the windows operating system.
+
+The following folders should be present to import GPOs from the script
+C:/DoD_CCM/Server2008
+C:/DoD_CCM/Server2012
+C:/DoD_CCM/Server2016
+C:/DoD_CCM/Server2019
+C:/DoD_CCM/Win7
+C:/DoD_CCM/Win8
+C:/DoD_CCM/Win10
